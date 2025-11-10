@@ -14,8 +14,8 @@ Test Automation Engineer with hands-on experience in building automated testing 
 
 ### TECHNICAL SKILLS
 
-**Test Automation & QA:** Selenium WebDriver, Playwright, Jest, Cypress, Test Framework Design, CI/CD Integration, End-to-End Testing, API Testing
-**Programming:** JavaScript, TypeScript, Python, Node.js  
+**Test Automation & QA:** Selenium WebDriver, Playwright, Jest, Cypress, CI/CD Integration, E2E, API Testing
+**Programming:** JavaScript, TypeScript, Python
 **Web Technologies:** Angular, React, Vue, HTML, CSS  
 **Databases & Testing:** PostgreSQL, MongoDB, MariaDB, Test Data Management  
 **DevOps & Tools:** Docker, Git, Linux, AWS  
@@ -96,6 +96,8 @@ _March 2018 - July 2019_
 
 ---
 
+---
+
 ## EDUCATION
 
 **Ivano-Frankivsk National Technical University of Oil and Gas**  
@@ -111,9 +113,7 @@ Bachelor of Automation and Computer Science | _2009 - 2014_
 
 ## LANGUAGES
 
-**English** - Advanced
-
----
+## **English** - Intermediate
 
 ## INTERESTS
 
