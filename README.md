@@ -11,10 +11,10 @@ I'm an engineer with 2+ years of experience, currently transitioning into Test A
 ### Tech Stack
 
 - **Test Automation:** Selenium, Playwright, Jest
-- **Languages:** JavaScript, Python
+- **Languages:** JavaScript, TypeScript, Python
 - **Frameworks:** Angular, React, Node.js
 - **DevOps:** Docker, Linux, AWS, Git
-- **Security:** Pentesting, nmap, fail2ban
+- **Security:** Pentesting, nmap, amass, httpx, bbot, fail2ban, Security Assessment
 
 ### Currently Learning
 
