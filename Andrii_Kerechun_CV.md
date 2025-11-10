@@ -1,6 +1,6 @@
 # ANDRII KERECHUN
 
-**Automation Test Control Engineer**
+**Automation Test Quality Control Engineer**
 
 andrewkrilik@gmail.com | +380684406920  
 Ivano-Frankivsk, Ukraine  
@@ -14,7 +14,7 @@ Test Automation Engineer with hands-on experience in building automated testing 
 
 ### TECHNICAL SKILLS
 
-**Test Automation & QA:** Selenium WebDriver, Playwright, Jest, Cypress, Test Framework Design, CI/CD Integration, End-to-End Testing, API Testing  
+**Test Automation & QA:** Selenium WebDriver, Playwright, Jest, Cypress, Test Framework Design, CI/CD Integration, End-to-End Testing, API Testing
 **Programming:** JavaScript, TypeScript, Python, Node.js  
 **Web Technologies:** Angular, React, Vue, HTML, CSS  
 **Databases & Testing:** PostgreSQL, MongoDB, MariaDB, Test Data Management  
@@ -26,7 +26,7 @@ Test Automation Engineer with hands-on experience in building automated testing 
 
 ## WORK EXPERIENCE
 
-### **SoftServe** | Test Automation Control Internship
+### **SoftServe** | Test Automation Quality Control Internship
 
 _September 2025 - Present_
 
