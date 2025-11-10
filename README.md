@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! I'm Andrii Kerechun
 
-<!--
-**66redBastard/66redBastard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Automation Test Control Engineer
 
-Here are some ideas to get you started:
+I'm an engineer with 2+ years of experience, currently transitioning into Test Automation Quality Control and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My CV
+
+**[View my full CV](./Andrii_Kerechun_CV.md)** - Automation Test Control Engineer
+
+### Tech Stack
+
+- **Test Automation:** Selenium, Playwright, Jest
+- **Languages:** JavaScript, Python
+- **Frameworks:** Angular, React, Node.js
+- **DevOps:** Docker, Linux, AWS, Git
+- **Security:** Pentesting, nmap, fail2ban
+
+### Currently Learning
+
+- Advanced test automation strategies
+- Cybersecurity and penetration testing
+- PostgreSQL database management
+
+### How to reach me
+
+- Email: andrewkrilik@gmail.com
+- LinkedIn: [andrew-kerechun-288756201](https://www.linkedin.com/in/andrew-kerechun-288756201/)
+
+---
+
+_Last updated: 2025-01-09_
