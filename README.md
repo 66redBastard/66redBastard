@@ -6,7 +6,8 @@ I'm an engineer with 2+ years of experience, currently transitioning into Test A
 
 ### My CV
 
-**[View my full CV](./Andrii_Kerechun_CV.md)** - Automation Test Control Engineer
+**[View my full CV](./Andrii_Kerechun_CV.md)** - Automation Test Quality Control Engineer
+**[Download my CV (PDF)]**(./Andrii_Kerechun_TAQC_CV.pdf)
 
 ### Tech Stack
 
