@@ -15,6 +15,7 @@ I'm an engineer with 2+ years of experience, currently transitioning into Test A
 - **Languages:** JavaScript, TypeScript, Python
 - **Frameworks:** Angular, React, Node.js
 - **DevOps:** Docker, Linux, AWS, Git
+- **ios:** Appium + xcode + xcuitest
 - **Security:** Pentesting, nmap, amass, httpx, bbot, fail2ban, Security Assessment
 
 ### Currently Learning
