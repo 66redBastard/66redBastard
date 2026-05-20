@@ -2,12 +2,7 @@
 
 ## Automation Test Control Engineer
 
-I'm an engineer with 2+ years of experience, currently transitioning into Test Automation Quality Control and Cybersecurity.
-
-### My CV
-
-**[View my full CV](./Andrii_Kerechun_CV.md)** - Automation Test Quality Control Engineer
-**[Download my CV (PDF)]**(./Andrii_Kerechun_TAQC_CV.pdf)
+I'm an engineer with 4+ years of experience, currently transitioning into Test Automation Quality Control and Cybersecurity.
 
 ### Tech Stack
 
@@ -27,7 +22,6 @@ I'm an engineer with 2+ years of experience, currently transitioning into Test A
 ### How to reach me
 
 - Email: andrewkrilik@gmail.com
-- LinkedIn: [andrew-kerechun-288756201](https://www.linkedin.com/in/andrew-kerechun-288756201/)
 
 ---
 
